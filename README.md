@@ -4,7 +4,7 @@ Money that expires, based on [this story](https://www.noemamag.com/what-if-money
 
 > "Gesell believed that the most-rewarded impulse in our present economy is to give as little as possible and to receive as much as possible, in every transaction. In doing so, he thought, we grow materially, morally and socially poorer."
 
-Inspired by ongoing rants like [this](https://x.com/hxrts/status/1752431169465934258?s=20) and [this](https://x.com/hxrts/status/1752329459561050291?s=20), as well as [running experiments](https://honour.kernel.community) like [Honour](https://www.kernel.community/en/tokens/token-studies/honour).
+Inspired by ongoing rants like [this](https://x.com/hxrts/status/1752431169465934258?s=20) and [this](https://x.com/hxrts/status/1752329459561050291?s=20), as well as [running experiments](https://honour.community) like [Honour](https://www.kernel.community/en/tokens/token-studies/honour).
 
 ## Why Is This Interesting?
 
